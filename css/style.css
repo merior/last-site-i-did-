@@ -251,3 +251,104 @@ margin-right: 175px;
     line-height: 150%;
     color: #455880;
 }
+.tittle_rev{
+    text-align: center;
+    margin-top: 232px;
+    margin-bottom: 56px;
+    font-family: "Halyard Text Regular" !important;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 60px;
+    color: #1E266D;
+}
+.review__all{
+    display: flex;
+    margin-bottom: 150px;
+}
+.review__one{
+    height: 467px;
+    /* height: 100%; */
+    padding: 38px 43px 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(69, 88, 128, 0.2);
+    border-radius: 4px;
+}
+.review__one:first-child{
+    margin-left: 210px;
+}
+.review__one:last-child{
+    margin-right: 210px;
+}
+.review__txt{
+    max-width: 286px;
+    width: 100%;
+    max-height: 211px;
+    height: 100%;
+    margin-bottom: 39px;
+    font-family: "Halyard Text Regular" !important;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 180%;
+    color: #455880;
+}
+.review__img{
+    margin-bottom: 23px;
+}
+.review__name{
+    font-family: "Halyard Text Regular" !important;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 22px;
+    line-height: 125%;
+    color: #1E266D;
+}
+.review__link{
+    font-family: "Halyard Text Regular" !important;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 180%;
+    color: #455880;
+    text-decoration: none;
+}
+.section__ready{
+    background-color:#3751FF ;
+}
+.div__ready{
+    padding: 88px 211px 113px 205px;
+    background-color:#3751FF ;
+}
+.tittle__ready{
+    max-width: 430px;
+    font-family: "Halyard Text Regular" !important;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+.button__ready{
+    padding-left: 70px;
+    padding-right: 31px;
+    color:#455880;
+    font-weight: 900;
+    line-height: 110%;
+    background: #fff url(../img/mail.svg) no-repeat 27px center;
+}
+.text__ready{
+    margin-top: 19px;
+    font-family: Halyard Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 125%;
+    color: #DFE0EB;
+}
+.colortext {
+    color: rgb(243, 211, 29); 
+  }
